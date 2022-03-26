@@ -7,6 +7,32 @@
 
 /****************  MY CLASSES   ****************/
 
+/************ WHATSAPP ME ***************/
+.whatsapp {
+  position: fixed;
+  right: 60px;
+  bottom: 17px;
+  z-index: 996;
+  background: green;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  transition: all 0.4s;
+}
+.whatsapp i {
+  font-size: 28px;
+  color: #fff;
+  line-height: 0;
+}
+.whatsapp:hover {
+  background: #00b33c;
+  color: green;
+}
+.whatsapp.active {
+  visibility: visible;
+  opacity: 1;
+}
+
 .certificate-dealer{
   color: green;
 }
