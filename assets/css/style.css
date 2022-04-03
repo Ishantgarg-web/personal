@@ -6,7 +6,15 @@
 */
 
 /****************  MY CLASSES   ****************/
-
+.gfg-coding{
+  color: rgb(76,175,80);
+}
+.leetcode-coding{
+  color: #f9a825;
+}
+.hackerrank-coding{
+  color: #068932;
+}
 /************ WHATSAPP ME ***************/
 .whatsapp {
   position: fixed;
